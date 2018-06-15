@@ -1,0 +1,52 @@
+version: '3'
+
+services:
+  laravel:
+    image: network-map-backend
+    ports:
+      - 8080:80
+    env_file:
+      - ./env/laravel.env
+      - ./env/laravel.secret.env
+    volumes:
+      - uploads:/var/www/public/uploads
+    links:
+      - neo4j:neo4j
+      - mysql:mysql
+      - redis:redis
+  wordpress:
+    image: vcarreira/nginx-php5-fpm
+    ports:
+      - 80:80
+    volumes:
+      - ./wordpress:/var/www/wordpress
+      - ./nginx/sites:/etc/nginx/sites-enabled
+      - ./nginx/logs:/var/log/nginx/
+    links:
+      - mysql:mysql
+  neo4j:
+    image: neo4j:3.1.5
+    ports:
+      - 7474:7474
+      - 7687:7687
+    volumes:
+      - neo4j:/data
+  mysql:
+    image: mysql
+    ports:
+      - 3306:3306
+    env_file: ./env/mysql.env 
+    volumes:
+      - mysql:/var/lib/mysql/
+  redis:
+    image: redis
+    expose:
+      - 6379
+    volumes:
+      - redis:/data
+
+volumes:
+  uploads:
+  neo4j:
+  mysql:
+  redis:
