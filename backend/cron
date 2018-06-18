@@ -1,0 +1,1 @@
+* * * * * root touch /cronran && cd /var/www/ && ls && php artisan schedule:run >> /dev/null 2>> /var/log/cron.log
