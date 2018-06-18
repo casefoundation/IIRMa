@@ -1,2 +1,3 @@
 *.secret.env
 .DS_Store
+nginx/logs/*.*
