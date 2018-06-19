@@ -18,23 +18,23 @@
  * @package WordPress
  */
 
-define('NETWORKMAP_API_USER', $_ENV['NETWORKMAP_API_USER']);
-define('NETWORKMAP_API_PASS', $_ENV['NETWORKMAP_API_PASS']);
-define('NETWORKMAP_API_ENDPOINT', $_ENV['NETWORKMAP_API_ENDPOINT']);
-define('NETWORKMAP_API_VERSION', $_ENV['NETWORKMAP_API_VERSION']);
+define('NETWORKMAP_API_USER', $_SERVER['NETWORKMAP_API_USER']);
+define('NETWORKMAP_API_PASS', $_SERVER['NETWORKMAP_API_PASS']);
+define('NETWORKMAP_API_ENDPOINT', $_SERVER['NETWORKMAP_API_ENDPOINT']);
+define('NETWORKMAP_API_VERSION', $_SERVER['NETWORKMAP_API_VERSION']);
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', $_ENV['WORDPRESS_DATABASE']);
+define('DB_NAME', $_SERVER['WORDPRESS_DATABASE']);
 
 /** MySQL database username */
-define('DB_USER', $_ENV['WORDPRESS_DATABASE_USER']);
+define('DB_USER', $_SERVER['WORDPRESS_DATABASE_USER']);
 
 /** MySQL database password */
-define('DB_PASSWORD', $_ENV['WORDPRESS_DATABASE_PASSWORD']);
+define('DB_PASSWORD', $_SERVER['WORDPRESS_DATABASE_PASSWORD']);
 
 /** MySQL hostname */
-define('DB_HOST', $_ENV['WORDPRESS_DATABASE_HOST']);
+define('DB_HOST', $_SERVER['WORDPRESS_DATABASE_HOST']);
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

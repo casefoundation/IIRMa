@@ -2,7 +2,6 @@ FROM ubuntu:bionic
 
 WORKDIR /tmp
 
-# Common PHP pages across containers
 RUN apt-get update -y && \
     DEBIAN_FRONTEND=noninteractive \
     apt-get install -y \
@@ -30,14 +29,13 @@ RUN apt-get update -y && \
     vim \
     cron \
     sudo \
-    python \
-    python-pip \
     zip \
     unzip \
     nginx \
     php7.2-fpm \
     supervisor \
-    curl && apt-get clean && rm -rf /var/lib/apt/lists/*
+    curl \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 RUN mkdir -p /etc/nginx /var/run/php-fpm /var/log/supervisor
 
@@ -46,7 +44,6 @@ COPY supervisor.conf /etc/supervisor/conf.d/laravel.conf
 COPY vhost.conf /etc/nginx/sites-enabled/default
 COPY startup.sh /startup.sh
 
-RUN mkdir -p /etc/php7.2/fpm/
 RUN mkdir -p /run/php
 
 RUN mkdir -p /etc/cron.d/

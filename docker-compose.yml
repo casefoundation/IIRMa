@@ -20,6 +20,7 @@ services:
       - 80:80
     volumes:
       - frontenduploads:/var/www/wordpress/wp-content/uploads
+      - ./frontend/theme:/var/www/wordpress/wp-content/themes/networkmap
     links:
       - mysql:mysql
       - networkmap-backend:networkmap-backend
