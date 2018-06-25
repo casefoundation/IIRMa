@@ -51,6 +51,7 @@ RUN tar zxvf latest.tar.gz
 RUN mv wordpress /var/www/wordpress
 
 COPY wp-config.php /var/www/wordpress/wp-config.php
+# COPY theme /var/www/wordpress/wp-content/themes/networkmap
 
 RUN chown -R www-data:www-data /var/www
 
