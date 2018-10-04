@@ -17,7 +17,7 @@ Impact Investing Network Map, for others to repurpose and reimagine our
 product for their own new projects. The code powering the relationship
 map visualization, filtering options and insights section will be open
 and free to use on the Case Foundation's GitHub account, as the
-\*Relationship Map Visualization. While the basis of our original Impact
+Investment Visualization Toolkit. While the basis of our original Impact
 Investing Network Map was to display historical direct investments made
 into companies by investors using publicly available data, with the open
 source Investment Visualization Toolkit, users can
