@@ -37,7 +37,7 @@ actors. Check out the
 full [video](https://casesmartimpact.com/capital/check-out-smart-impact-capital/) to
 learn more on capital flows within Impact Investing.
 
-To learn more, please [visit the wiki](wiki).
+To learn more, please [visit the wiki](https://github.com/casefoundation/Investment-Visualization-Toolkit/wiki).
 
 ## Contributing
 
