@@ -28,6 +28,15 @@ source \*Relationship Map Visualization, users can
     features; or
 -   even apply the code for a purpose outside of Impact Investing.
 
+We are appreciative of the resources and expertise provided by our
+advisors. We utilized elements of the [CASE Smart Impact Capital, Impact
+Capital 101: Supply and Demand
+diagram](https://casesmartimpact.com/capital/check-out-smart-impact-capital/) to
+help illustrate the flow of capital between the supply and demand side
+actors. Check out the
+full [video](https://casesmartimpact.com/capital/check-out-smart-impact-capital/) to
+learn more on capital flows within Impact Investing.
+
 To learn more, please [visit the wiki](https://github.com/casefoundation/NetworkMap/wiki).
 
 ## Contributing
