@@ -1,4 +1,4 @@
-# Network Map
+# Investment Visualization Toolkit
 
 ## About
 
@@ -20,7 +20,7 @@ and free to use on the Case Foundation's GitHub account, as the
 \*Relationship Map Visualization. While the basis of our original Impact
 Investing Network Map was to display historical direct investments made
 into companies by investors using publicly available data, with the open
-source \*Relationship Map Visualization, users can
+source Investment Visualization Toolkit, users can
 
 -   apply their own dataset for projects like visualizing local impact
     investment activity;
