@@ -2,42 +2,9 @@
 
 ## About
 
-The Case Foundation developed the Impact Investing Network Map, with
-data partners Impact Space and CrunchBase, to present the best publicly
-available data on impact investments to better inform the sector. We
-believe that bringing the connections between investors and companies to
-life will foster a better understanding of the size, breadth and depth
-of the impact investing ecosystem. Since launching the Impact Investing
-Network Map, we have gathered feedback from many users and have
-repeatedly heard interest in applying the visualization and lessons
-learned to other projects and sources of data.
+The Case Foundation developed the Impact Investing Network Map, with data partners Impact Space and CrunchBase, to present the best publicly available data on impact investments to better inform the sector. We believe that bringing the connections between investors and companies to life will foster a better understanding of the size, breadth and depth of the impact investing ecosystem and incorporated engaging data visualizations to try to bring the data from this quickly growing sector to life. 
 
-We are excited to announce that we are open sourcing the code of the
-Impact Investing Network Map, for others to repurpose and reimagine our
-product for their own new projects. The code powering the relationship
-map visualization, filtering options and insights section will be open
-and free to use on the Case Foundation's GitHub account, as the
-Investment Visualization Toolkit. While the basis of our original Impact
-Investing Network Map was to display historical direct investments made
-into companies by investors using publicly available data, with the open
-source Investment Visualization Toolkit, users can
-
--   apply their own dataset for projects like visualizing local impact
-    investment activity;
--   update the code with new functions, filters, and visualization
-    features; or
--   even apply the code for a purpose outside of Impact Investing.
-
-We are appreciative of the resources and expertise provided by our
-advisors. We utilized elements of the [CASE Smart Impact Capital, Impact
-Capital 101: Supply and Demand
-diagram](https://casesmartimpact.com/capital/check-out-smart-impact-capital/) to
-help illustrate the flow of capital between the supply and demand side
-actors. Check out the
-full [video](https://casesmartimpact.com/capital/check-out-smart-impact-capital/) to
-learn more on capital flows within Impact Investing.
-
-To learn more, please [visit the wiki](https://github.com/casefoundation/Investment-Visualization-Toolkit/wiki).
+Now we are excited to announce that we are open sourcing the code from this project so you can repurpose and reimagine this data visualization product for your own new projects. The code powering the relationship map visualization, filtering options and insights section will be open and free to use on the Case Foundation’s GitHub account, as the *Relationship Map Visualization. While the basis of our original Impact Investing Network Map was to display historical direct investments made into companies by investors using publicly available data, with the open source you can use the code to create your own projects and bring your own data to life. You can use it to bring your own Impact Investing data to life, expand the options and features available or apply it to data outside the Impact Investing sector. If this is of interest to you or your teams, please  [visit the wiki](https://github.com/casefoundation/Investment-Visualization-Toolkit/wiki).
 
 ## Contributing
 
