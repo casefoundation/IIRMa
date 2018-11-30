@@ -1,6 +1,3 @@
-[submodule "backend/laravel"]
-	path = backend/laravel
-	url = git@github.com:CreativeScienceLabs/cf-network-map-backend.git
 [submodule "frontend/theme"]
 	path = frontend/theme
 	url = git@github.com:casefoundation/NetworkMap-Frontend.git
