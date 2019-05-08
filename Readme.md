@@ -1,4 +1,4 @@
-# Investment Visualization Toolkit
+# Relationship Visualization Map
 
 ## About
 
