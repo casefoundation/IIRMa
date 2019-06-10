@@ -29,7 +29,7 @@ use the code to bring your own Impact Investing data to life, expand the
 options and features available or, potentially, apply it to data outside
 the Impact Investing sector.
 
-If this is of interest to you or your teams, please  [visit the wiki](https://github.com/casefoundation/IIRMa/wiki).
+To learn more about how you can use this open source project to visualize your data, please [visit the wiki](https://github.com/casefoundation/IIRMa/wiki).
 
 # The Origins of IIRMa
 
