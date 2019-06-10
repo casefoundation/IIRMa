@@ -1,5 +1,7 @@
 # Impact Investment Relationship Mapper (IIRMa)
 
+![IIRMA screenshot](doc/IIRMa-Graphic.png)
+
 ## About
 
 We are excited to announce the release of the Impact Investment
