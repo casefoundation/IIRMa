@@ -1,10 +1,14 @@
-# Investment Visualization Toolkit
+# Impact Investment Relationship Mapper (IIRMa)
 
 ## About
 
-The Case Foundation developed the Impact Investing Network Map, with data partners Impact Space and CrunchBase, to present the best publicly available data on impact investments to better inform the sector. We believe that bringing the connections between investors and companies to life will foster a better understanding of the size, breadth and depth of the impact investing ecosystem and incorporated engaging data visualizations to try to bring the data from this quickly growing sector to life. 
+e are excited to announce the release of the Impact Investment Relationship Mapper (IIRMa), an open source project designed to allow all to build data visualization products to bring to life the connections between investors, companies and funds. Originally created to map the direct investments made into companies by investors in the Impact Investing field, the release of the product and code enables all to present financial data from a wide variety of fields to show the breadth, depth and the interconnections at the heart of multiple financial transactions in a graphically engaging format. As with all open source projects, it can be adjusted and modified widely, but the Mapper is ideally designed to bring greater accessibility and transparency to financial data where relationships are not easily seen and where that visualization can highlight or reveal relationships.
 
-Now we are excited to announce that we are open sourcing the code from this project so you can repurpose and reimagine this data visualization product for your own new projects. The code powering the relationship map visualization, filtering options and insights section will be open and free to use on the Case Foundation’s GitHub account, as the Investment Visualization Toolkit. While the basis of our original Impact Investing Network Map was to display historical direct investments made into companies by investors using publicly available data, with the open source you can use the code to create your own projects and bring your own data to life. You can use it to bring your own Impact Investing data to life, expand the options and features available or apply it to data outside the Impact Investing sector. If this is of interest to you or your teams, please  [visit the wiki](https://github.com/casefoundation/Investment-Visualization-Toolkit/wiki).
+The code powering IIRMa, including filtering options and insights section will be open and free to use on the Case Foundation’s GitHub account, and we look forward to seeing how this visualization product will be used by others to present data in a more dynamic and accessible way.
+
+While the basis of the Impact Investing Network Map was to display historical direct investments made into companies by investors using publicly available data, with the open sourcing of this product, you can use the code to bring your own Impact Investing data to life, expand the options and features available or, potentially, apply it to data outside the Impact Investing sector.
+
+If this is of interest to you or your teams, please  [visit the wiki](https://github.com/casefoundation/IIRMa/wiki).
 
 ## Contributing
 
