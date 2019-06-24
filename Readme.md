@@ -13,8 +13,8 @@ Impact Investing field, the release of the product and code enables all
 to present financial data from a wide variety of fields to show the
 breadth, depth and the interconnections at the heart of multiple
 financial transactions in a graphically engaging format. As with all
-open source projects, it can be adjusted and modified widely, but the
-Mapper is ideally designed to bring greater accessibility and
+open source projects, it can be adjusted and modified widely, but 
+IIRMa is ideally designed to bring greater accessibility and
 transparency to financial data where relationships are not easily seen
 and where that visualization can highlight or reveal relationships.
 
