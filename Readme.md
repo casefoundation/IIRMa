@@ -1,4 +1,4 @@
-# Impact Investment Relationship Mapper (IIRMa)
+# Impact Investment Relationship Matrix (IIRMa)
 
 ![IIRMA screenshot](doc/IIRMa-Graphic.png)
 
