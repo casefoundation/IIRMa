@@ -5,7 +5,7 @@
 ## About
 
 We are excited to announce the release of the Impact Investment
-Relationship Mapper (IIRMa), an open source project designed to allow
+Relationship Matrix (IIRMa), an open source project designed to allow
 all to build data visualization products to bring to life the
 connections between investors, companies and funds. Originally created
 to map the direct investments made into companies by investors in the
