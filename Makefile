@@ -14,3 +14,8 @@ build_backend:
 
 build_frontend:
 	cd frontend && docker build -t networkmap-frontend ./ 
+
+start:
+	docker-compose build
+	docker-compose up -d
+	
