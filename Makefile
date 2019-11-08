@@ -1,4 +1,7 @@
 local_step_1:
+	touch env/laravel.secret.env
+	touch env/mysql.secret.env
+	touch env/wordpress.secret.env
 	docker-compose build
 	docker-compose up -d neo4j
 
