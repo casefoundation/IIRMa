@@ -1,6 +1,6 @@
 [submodule "frontend/theme"]
 	path = frontend/theme
-	url = git@github.com:casefoundation/IIRMa-Frontend.git
+	url = https://github.com/casefoundation/IIRMa-Frontend.git
 [submodule "backend/laravel"]
 	path = backend/laravel
-	url = git@github.com:casefoundation/IIRMa-Backend.git
+	url = https://github.com/casefoundation/IIRMa-Backend.git
